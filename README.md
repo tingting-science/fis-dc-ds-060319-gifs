@@ -39,7 +39,7 @@ Replace this text with your gif!
 ### Tim
 Replace this text with your gif!
 ### Tingting
-Replace this text with your gif!
+![tingting_like_cat](images/tingting.gif)
 ### Misha
 Replace this text with your gif!
 ### Sean
