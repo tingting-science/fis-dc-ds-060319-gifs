@@ -15,7 +15,7 @@ Replace this text with your gif!
 ### Anthony
 Replace this text with your gif!
 ### Ngoc
-Replace this text with your gif!
+![Dont tell me what to do!](images/ngoc.jpeg)
 ### Phoebe
 Replace this text with your gif!
 ### Joe
