@@ -43,4 +43,4 @@ Replace this text with your gif!
 ### Misha
 Replace this text with your gif!
 ### Sean
-Replace this text with your gif!
+![I have a pet rabbit!](images/sean.gif)
