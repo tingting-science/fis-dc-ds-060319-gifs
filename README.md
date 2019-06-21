@@ -2,7 +2,7 @@
 
 ## Instructions
 
-In a branch, add your gif to the `images/` directory and embed it using Markdown in this document.  I've provided an example!
+In a branch, add your gif to the `images/` directory and embed it using Markdown in this document.  I've provided an example!  Then issue a pull request for me (Andy) to review.
 
 ### Andy
 ![Andy as a 10 year old](images/andy.gif)
