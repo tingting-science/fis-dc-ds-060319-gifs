@@ -11,7 +11,7 @@ Replace this text with your gif!
 ### Kate
 Replace this text with your gif!
 ### Mindy
-Replace this text with your gif!
+![Mindy typing weird](images/giphy.gif)
 ### Anthony
 Replace this text with your gif!
 ### Ngoc
