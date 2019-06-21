@@ -7,7 +7,7 @@ Find a GIF that summarizes how you're feeling about today being Friday.  In a br
 ### Andy
 ![Andy as a 10 year old](images/andy.gif)
 ### Joey
-Replace this text with your gif!
+![Joey's mood today](images/joey_friday.gif)
 ### Kate
 Replace this text with your gif!
 ### Mindy
