@@ -13,7 +13,7 @@ Replace this text with your gif!
 ### Mindy
 Replace this text with your gif!
 ### Anthony
-Replace this text with your gif!
+![Anthony today](images/anthony.gif)
 ### Ngoc
 Replace this text with your gif!
 ### Phoebe
