@@ -5,7 +5,7 @@
 In a branch, add your gif to the `images/` directory and embed it using Markdown in this document.  I've provided an example!
 
 ### Andy
-Replace this text with your gif!
+![Andy as a 10 year old](images/andy.gif)
 ### Joey
 Replace this text with your gif!
 ### Kate
