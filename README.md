@@ -25,7 +25,7 @@ Replace this text with your gif!
 ### Clifford
 Replace this text with your gif!
 ### Quinn
-Replace this text with your gif!
+![Download was being stupid...](https://media.giphy.com/media/IRFQYGCokErS0/giphy.gif)
 ### Emefa
 Replace this text with your gif!
 ### Keita
