@@ -17,7 +17,7 @@ Replace this text with your gif!
 ### Ngoc
 Replace this text with your gif!
 ### Phoebe
-Replace this text with your gif!
+![Friday](images/tenor.gif)
 ### Joe
 Replace this text with your gif!
 ### Nateé
